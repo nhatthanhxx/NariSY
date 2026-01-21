@@ -29,7 +29,7 @@ android {
     namespace = "eu.kanade.tachiyomi"
 
     defaultConfig {
-        applicationId = "eu.kanade.tachiyomi.sy"
+        applicationId = "vn.nari.comic.sy"
 
         versionCode = 75
         versionName = "1.12.0"
